@@ -1,9 +1,12 @@
 import React from "react";
 
+// src/components/NavBar.js
 function NavBar() {
   return (
     <nav>
-      <a href="#home">I'm a link!</a>
+      {/* NavBar content */}
     </nav>
   );
 }
+
+export default NavBar;
